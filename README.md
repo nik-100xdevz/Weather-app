@@ -1,4 +1,4 @@
-Here’s a possible README file for your Weather App repository:  
+
 
 ### `README.md`  
 ```markdown
@@ -59,7 +59,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Author ✨
 - **Nik-100xdevz**  
   - GitHub: [nik-100xdevz](https://github.com/nik-100xdevz)  
-  - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) (Optional)
+  - Twitter: [https://x.com/Nik_rai_] (Optional)
 
 ---
 
